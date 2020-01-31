@@ -1,7 +1,7 @@
 ---
 layout: cv
-title: Karim Lahrichi's CV
 ---
+
 # Karim Lahrichi
 Data Science Practitioner & Mentor | Big Data Instructor 
 
