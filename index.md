@@ -20,12 +20,12 @@ Data Science Practitioner & Mentor | Big Data Instructor
 - Mentor at Springboard, Data Analytics track
 
 
-### Specialized in
+## Specialized in
 
 Data Science & Machine Learning | Big Data & Visualization
 
 
-### Work Experience
+## Work Experience
 
 - Flinks (Montreal, Canada)
   - `Jan 2019 - Present`: Head of AI
