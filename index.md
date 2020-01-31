@@ -22,7 +22,8 @@ Data Science Practitioner & Mentor | Big Data Instructor
 
 ## Specialized in
 
-Data Science & Machine Learning | Big Data & Visualization
+- Data Science & Machine Learning
+- Big Data & Visualization
 
 
 ## Work Experience
@@ -49,11 +50,11 @@ Data Science & Machine Learning | Big Data & Visualization
 ## Education
 
 `2017 - 2019`
-__MBA, HEC Montreal (Montreal, Canada)__
+MBA, HEC Montreal (Montreal, Canada)
 
 `2017`
-__Deep Learning Summer Camp, IVADO - MILA (Montreal, Canada)__
+Deep Learning Summer Camp, IVADO - MILA (Montreal, Canada)
 
 `2011 - 2013`
-__Bachelor's degree, Actuarial Science, UQAM (Montreal, Canada)__
+Bachelor's degree, Actuarial Science, UQAM (Montreal, Canada)
 
