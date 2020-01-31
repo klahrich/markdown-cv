@@ -1,5 +1,6 @@
 ---
 layout: cv
+title: Karim Lahrichi's CV
 ---
 
 # Karim Lahrichi
