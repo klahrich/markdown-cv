@@ -1,91 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Karim Lahrichi's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Karim Lahrichi
+Data Science Practitioner & Mentor | Big Data Instructor 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="karimlahrichi@hotmail.com">karimlahrichi@hotmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+- Head of AI at Flinks: Building data & AI powered tools for Open Banking
+- University instructor: 
+  - Business Analytics at Concordia university
+  - Big Data Visualization at Concordia university
+  - Data at Scale at McGill unviersity
+- Mentor on Springboard, Data Analytics track
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data Science & Machine Learning | Big Data & Visualization
 
 
-### Research interests
+### Work Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Flinks (Montreal, Canada)
+  - `Jan 2019 - Present`: Head of AI
+  - `Sep 2018 - Dec 2018`: Senior Data Scientist
+  
+- Concordia university (Montreal, Canada)
+  - `Sep 2019 - Present`: Instructor for the class -Big Data Visualization & Storytelling-
+  - `Jan 2020 - Present`: Instructor for the class -Big Data Analytics for Business-
+  
+- McGill university (Montreal, Canada)
+  - `Jan 2020 - Present`: Instructor for the class -Data at Scale-
+  
+- Springboard (online)
+  - `Dec 2019 - Present`: Mentor (3 students), Data Analytics track
+  
+- Intact Insurance (Montreal, Canada)
+   - `Mar 2017 - Dec 2018`: Data Scientist
+   - `May 2013 - Mar 2017`: Actuarial Analyst
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017 - 2019`
+__MBA, HEC Montreal (Montreal, Canada)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017`
+__Deep Learning Summer Camp, IVADO - MILA (Montreal, Canada)__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+`2011 - 2013`
+__Bachelor's degree, Actuarial Science, UQAM (Montreal, Canada)__
 
