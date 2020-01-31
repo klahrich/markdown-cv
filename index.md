@@ -6,7 +6,7 @@ title: Karim Lahrichi's CV
 Data Science Practitioner & Mentor | Big Data Instructor 
 
 <div id="webaddress">
-<a href="karimlahrichi@hotmail.com">karimlahrichi@hotmail.com</a>
+<a href="karimlahrichi@hotmail.com">karimlahrichi@hotmail.com</a> | <a href="https://www.linkedin.com/in/karim-lahrichi/">linkedin</a> 
 </div>
 
 
@@ -16,7 +16,7 @@ Data Science Practitioner & Mentor | Big Data Instructor
 - University instructor: 
   - Business Analytics at Concordia university
   - Big Data Visualization at Concordia university
-  - Data at Scale at McGill unviersity
+  - Data at Scale at McGill university
 - Mentor on Springboard, Data Analytics track
 
 
