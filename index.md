@@ -17,7 +17,7 @@ Data Science Practitioner & Mentor | Big Data Instructor
   - Business Analytics at Concordia university
   - Big Data Visualization at Concordia university
   - Data at Scale at McGill university
-- Mentor on Springboard, Data Analytics track
+- Mentor at Springboard, Data Analytics track
 
 
 ### Specialized in
