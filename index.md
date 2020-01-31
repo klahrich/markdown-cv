@@ -12,7 +12,7 @@ Data Science Practitioner & Mentor | Big Data Instructor
 
 
 ## Currently
-- Head of AI at Flinks: Building data & AI powered tools for Open Banking
+Head of AI at Flinks: Building data & AI powered tools for Open Banking
 - University instructor: 
   - Business Analytics at Concordia university
   - Big Data Visualization at Concordia university
